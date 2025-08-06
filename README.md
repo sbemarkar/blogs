@@ -1,6 +1,5 @@
-# blogs
-Blogs authored by Sunil Bemarkar
-
+# Sunil Bemarkar - Blog Portfolio
+A collection of my blogs on AWS, Oracle, and more: 
 - [**Now Assist with Amazon Bedrock: Two Paths to Enterprise-Grade Generative AI on ServiceNow**](https://www.servicenow.com/community/now-assist-articles/now-assist-with-amazon-bedrock-two-paths-to-enterprise-grade/ta-p/3341654)
 - [**Appian AI Copilot Transforms Low-Code Development with Amazon Bedrock**](https://aws.amazon.com/blogs/apn/appian-ai-copilot-transforms-low-code-development-with-amazon-bedrock/)
 - [**Revolutionizing business processes with Amazon Bedrock and Appian’s generative AI skills**](https://aws.amazon.com/blogs/machine-learning/revolutionizing-business-processes-with-amazon-bedrock-and-appians-generative-ai-skills/)
