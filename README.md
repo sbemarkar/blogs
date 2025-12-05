@@ -1,4 +1,4 @@
-# Sunil Bemarkar - Blog Portfolio
+# Sunil Bemarkar - Portfolio
 A collection of my blogs with AWS and ISV Partners, and more: 
 - [**Powering trusted AI, zero-copy data access & cloud architecture with AWS**](https://www.servicenow.com/blogs/2025/trusted-ai-zero-copy-data-access-aws)
 - [**Now Assist with Amazon Bedrock: Two Paths to Enterprise-Grade Generative AI on ServiceNow**](https://www.servicenow.com/community/now-assist-articles/now-assist-with-amazon-bedrock-two-paths-to-enterprise-grade/ta-p/3341654)
