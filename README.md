@@ -1,10 +1,11 @@
 # Sunil Bemarkar - Blog Portfolio
-A collection of my blogs on AWS, Oracle, and more: 
+A collection of my blogs with AWS and ISV Partners, and more: 
+- [**Powering trusted AI, zero-copy data access & cloud architecture with AWS**] (https://www.servicenow.com/blogs/2025/trusted-ai-zero-copy-data-access-aws)
 - [**Now Assist with Amazon Bedrock: Two Paths to Enterprise-Grade Generative AI on ServiceNow**](https://www.servicenow.com/community/now-assist-articles/now-assist-with-amazon-bedrock-two-paths-to-enterprise-grade/ta-p/3341654)
+- [**Orchestrate seamless business systems integrations using Amazon Bedrock Agents**](https://aws.amazon.com/blogs/machine-learning/orchestrate-seamless-business-systems-integrations-using-amazon-bedrock-agents/)
 - [**Appian AI Copilot Transforms Low-Code Development with Amazon Bedrock**](https://aws.amazon.com/blogs/apn/appian-ai-copilot-transforms-low-code-development-with-amazon-bedrock/)
 - [**Revolutionizing business processes with Amazon Bedrock and Appian’s generative AI skills**](https://aws.amazon.com/blogs/machine-learning/revolutionizing-business-processes-with-amazon-bedrock-and-appians-generative-ai-skills/)
 - [**Simplifying Cloud Governance and Regulatory Compliance with ServiceNow and AWS**](https://aws.amazon.com/blogs/apn/simplifying-cloud-governance-and-regulatory-compliance-with-servicenow-and-aws/)
-- [**Orchestrate seamless business systems integrations using Amazon Bedrock Agents**](https://aws.amazon.com/blogs/machine-learning/orchestrate-seamless-business-systems-integrations-using-amazon-bedrock-agents/)
 - [**Enhancing enterprise workflows with ServiceNow and Amazon Bedrock**](https://www.servicenow.com/blogs/2024/enterprise-workflows-amazon-bedrock)
 - [**Achieving business-aware AWS infrastructure Visibility with ServiceNow**](https://aws.amazon.com/blogs/apn/achieving-business-aware-aws-infrastructure-visibility-with-servicenow/)
 - [**Enhancing Customer and IT Service Management with Amazon Connect and ServiceNow Voice**](https://aws.amazon.com/blogs/apn/enhancing-customer-and-it-service-management-with-amazon-connect-and-servicenow-voice/)
